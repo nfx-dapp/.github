@@ -94,41 +94,35 @@ While developing NFX, we encountered the challenge of structuring and presenting
 
 
 ## Screenshots
+
+### Landing Page
 <img width="1117" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/470397a6-8e65-4662-b4fe-1c2a28534341">
 
-<br />
-
+### Landing Page More
 <img width="1116" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/151e950a-00b0-4f91-882b-9f7a808a55bb">
 
-
-
+### Search Page
 <img width="1116" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/5faade03-6f5b-48c4-a516-c827c5ce2acb">
 
-
-
+### Project Page
 <img width="1117" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/b5e757a7-f172-482b-9f72-f14a26f7de38">
 
-
-
+### Projects List Page
 <img width="1115" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/ed2d0c09-c020-4ac6-86fe-264754eda11c">
 
-
-
-<img width="1115" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/5952a001-72a0-43c9-8481-2e692d6fcc82">
-
-
-
+### Contract Page
 <img width="1115" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/22be8a73-3acb-404f-95fc-d2a8e7049754">
 
-
-
+### Add NFT Page
 <img width="1114" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/7af27e14-3890-4dd2-a4a8-19a980b01b30">
 
-
-
+### Add New NFT Modal
 <img width="1115" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/7701e16c-b25a-4221-9e94-a8d161ff3b57">
 
-
-
+### Schema Page
 <img width="1117" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/e5cd42fa-92ee-4ea9-bdc7-40b3d223de04">
+
+### Footer 
+<img width="1115" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/5952a001-72a0-43c9-8481-2e692d6fcc82">
+
 
