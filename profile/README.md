@@ -59,6 +59,25 @@
 
 NFX addresses the challenge of interoperability among NFTs by simplifying the integration process for developers. The complexity of NFT smart contracts often hinders seamless asset incorporation across projects. NFX provides a user-friendly platform, allowing developers, especially in gaming, to effortlessly explore and understand various NFT contracts. By showcasing contract details, NFX fosters collaboration, innovation, and the democratization of NFT information, unlocking a connected and interoperable ecosystem for decentralized applications.
 
+<ul>
+<li> Effortless Integration
+<p>In NFX, developers seamlessly integrate NFTs. Use advanced data compositions for applications like dashboards, bots, aggregators, and insights trackers. </p>
+</li>
+
+<br/>
+
+<li> Innovative Applications
+<p> NFX empowers developers to build innovative applications. Leverage advanced data compositions to create dashboards, bots, aggregators, and insights trackers. </p>
+</li>
+
+<br/>
+ 
+<li> 
+Crafting Onchain Narratives
+<p> Embark on your NFT journey with NFX. From curation to data point validation, effortlessly compose onchain narratives and scale trustless data. </p>
+</li>
+</ul>
+
 ### Built With
 
 The following technologies contributed signifactly to the development of this project
