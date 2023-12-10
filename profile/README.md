@@ -102,7 +102,7 @@ While developing NFX, we encountered the challenge of structuring and presenting
 <img width="1116" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/151e950a-00b0-4f91-882b-9f7a808a55bb">
 
 ### Search Page
-<img width="1116" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/5faade03-6f5b-48c4-a516-c827c5ce2acb">
+![WhatsApp Image 2023-12-10 at 07 47 08_7baf0b8a](https://github.com/nfx-dapp/.github/assets/96080203/c66cf92c-e845-4205-b2ba-94aabe9b8904)
 
 ### Project Page
 <img width="1117" alt="image" src="https://github.com/nfx-dapp/.github/assets/96080203/b5e757a7-f172-482b-9f72-f14a26f7de38">
